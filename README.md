@@ -89,6 +89,7 @@
 <img src="https://raw.githubusercontent.com/Qirana2049/Qirana2049/output/snake.svg" alt="Snake animation" />
 
 ###
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tot&theme=radical)](https://github.com/tot)
 
 ###
 
