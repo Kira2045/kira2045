@@ -10,7 +10,7 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/Qirana2049/Qirana2049/blob/main/makima.gif" height="400" alt="Qirana2049"  />
+  <img src="https://github.com/Qirana2049/Qirana2049/blob/main/makima.gif" height="450" alt="Qirana2049"  />
 </p>
 
 ---
@@ -58,16 +58,6 @@
   <img src="https://github-profile-trophy.vercel.app?username=Qirana2049&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://streak-stats.demolab.com?user=Qirana2049&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Qirana2049/Qirana2049/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Qirana2049/Qirana2049/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Qirana2049/Qirana2049/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
