@@ -10,7 +10,7 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/Qirana2049/Qirana2049/blob/main/qirana.gif" height="400" alt="Qirana2049"  />
+  <img src="https://github.com/Qirana2049/Qirana2049/blob/main/makima.gif" height="400" alt="Qirana2049"  />
 </p>
 
 ---
