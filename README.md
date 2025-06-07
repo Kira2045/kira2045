@@ -101,8 +101,7 @@
 
 ---
 
-###
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tot&theme=radical)](https://github.com/tot)
+
 
 <h3 align="center">Support Me</h3>
 
