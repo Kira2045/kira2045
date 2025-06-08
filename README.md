@@ -32,7 +32,6 @@
   alt="anime gif" 
 />
 
----
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/neovim/57A143" height="47" alt="neovim logo" />
@@ -73,7 +72,6 @@
 </div>
 
 
----
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
