@@ -1,6 +1,7 @@
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=39&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&height=80&lines=%F0%9F%A4%96+I'm+Qirana;Aspiring+Full+Stack+Web+Developer;Junior+Machine+Learning+Engineer;Penetration+Testing+Enthusiast" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=39&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&height=80&lines=%F0%9F%A4%96+I'm+Qirana;🤖machine+🌱learning+🧠developer+🛡️pentest+🔍enthusiast+💻full-stack+🌐developer
+" 
     alt="Typing SVG"
   />
 </p>
