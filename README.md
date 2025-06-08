@@ -1,10 +1,10 @@
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=39&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&height=80&lines=%F0%9F%A4%96+I'm+Qirana;🤖machine+🌱learning+🧠developer+🛡️pentest+🔍enthusiast+💻full-stack+🌐developer
-" 
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=39&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&height=80&lines=%F0%9F%A4%96+I'm+Qirana;🤖machine+%F0%9F%8C%B1learning+%F0%9F%A7%A0developer+%F0%9F%9B%A1%EF%B8%8Fpentest+%F0%9F%94%8Denthusiast+%F0%9F%92%BBfull-stack+%F0%9F%8C%90developer"
     alt="Typing SVG"
   />
 </p>
+
 
 ---
 
