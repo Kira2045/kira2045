@@ -18,9 +18,12 @@
 
 ---
 
+
+
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Qirana2049&theme=radical&no-frame=true&no-bg=true&margin-w=20&row=2&column=4" alt="GitHub Trophies" width="50%" />
+ <img src="https://github-trophies.vercel.app/?username=Qirana2049&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=-1" alt="Qirana2049's GitHub Trophies" />
 </p>
+
 
 ---
 <img 
