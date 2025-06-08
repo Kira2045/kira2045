@@ -19,10 +19,12 @@
 ---
 
 
+## 🏆 GitHub Trophies
 
 <p align="center">
- <img src="https://github-trophies.vercel.app/?username=Qirana2049&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=-1" alt="Qirana2049's GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=Qirana2049&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Qirana2049 GitHub Trophy" />
 </p>
+
 
 
 ---
