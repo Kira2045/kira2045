@@ -17,10 +17,12 @@
 
 
 ---
-![](https://github-trophies.vercel.app/?username=Qirana2049&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=Qirana2049&theme=radical&no-frame=true&no-bg=true&margin-w=20&row=2&column=4" alt="GitHub Trophies" width="100%" />
+</p>
 
 ---
-
 <img 
   align="right" 
   height="150" 
