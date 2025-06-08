@@ -16,19 +16,12 @@
 </p>
 
 ---
+![](https://github-readme-stats.vercel.app/api?username=Qirana2049&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Qirana2049&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Qirana2049&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Qirana2049&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" 
-    height="150" 
-    alt="streak graph"  
-  />
-  <img 
-    src="https://github-profile-trophy.vercel.app?username=Qirana2049&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" 
-    height="150" 
-    alt="trophy graph"  
-  />
-</div>
+---
+![](https://github-trophies.vercel.app/?username=Qirana2049&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
