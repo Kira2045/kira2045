@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Qirana2049&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=12" alt="Qirana2049 GitHub Trophy" />
+  <img src="https://github-trophies.vercel.app/?username=Qirana2049&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=12" alt="Qirana2049 GitHub Trophy" />
 </p>
 
 
