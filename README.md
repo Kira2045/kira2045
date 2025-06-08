@@ -11,7 +11,7 @@
   <img 
     src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG05Y21jcG13bXloMzd6bGdja3Bza2p6bHVtZWFnNDdnZmtpOXdpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yWks1AKUIldwKNHOxT/giphy.gif" 
     alt="Hi, my name is Qirana" 
-    width="700" 
+    width="800" 
   />
 </p>
 
@@ -22,7 +22,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Qirana2049&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=10" alt="Qirana2049 GitHub Trophy" />
+  <img src="https://github-trophies.vercel.app/?username=Qirana2049&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=6" alt="Qirana2049 GitHub Trophy" />
 </p>
 
 
