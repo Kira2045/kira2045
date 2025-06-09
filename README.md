@@ -124,5 +124,5 @@
 ---
 
 > _"Silence is not emptiness, but space for understanding."_
-> - **QIRANA**
+> _ **QIRANA**
 
