@@ -73,6 +73,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="47" alt="css3 logo" />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="47" alt="mysql logo" />
+    <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="47" alt="python logo" />
+    <img width="14" />
+  <img src="https://cdn.simpleicons.org/haskell?viewbox=auto" height="47" alt="haskell logo" />
+    <img width="14" />
+  <img src="https://cdn.simpleicons.org/css3/264DE4" height="47" alt="css logo" />
+    <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="47" alt="typescript logo" />
+    <img width="14" />
 </div>
 
 ---
