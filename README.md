@@ -78,8 +78,7 @@
     <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="47" alt="typescript logo" />
     <img width="14" />
-<img src="https://cdn.simpleicons.org/assembly/9E4F00" height="47" alt="assembly logo" />
-    <img width="14" />
+
 </div>
 
 ---
