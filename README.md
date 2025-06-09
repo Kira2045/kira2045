@@ -123,6 +123,6 @@
 
 ---
 
-> _"The quieter you become, the more you can hear."_  
-> — **Qirana**
+> "Silence is not emptiness, but space for understanding."
+> **QIRANA**
 
