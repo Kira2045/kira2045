@@ -123,6 +123,6 @@
 
 ---
 
-> "Silence is not emptiness, but space for understanding."
-> **QIRANA**
+> _"Silence is not emptiness, but space for understanding."_
+> - **QIRANA**
 
