@@ -44,25 +44,13 @@
   <img width="14" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="47" alt="bash logo" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="47" alt="gradle logo" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="47" alt="kotlin logo" />
-  <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="47" alt="postgresql logo" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="47" alt="latex logo" />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="47" alt="cplusplus logo" />
   <img width="14" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="47" alt="docker logo" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="47" alt="kaggle logo" />
-  <img width="14" />
   <img src="https://cdn.simpleicons.org/redhat/EE0000" height="47" alt="redhat logo" />
-  <img width="14" />
-  <img src="https://cdn.simpleicons.org/vim/019733" height="47" alt="vim logo" />
-  <img width="14" />
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="47" alt="wordpress logo" />
   <img width="14" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="47" alt="tailwindcss logo" />
   <img width="14" />
@@ -71,10 +59,6 @@
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="47" alt="javascript logo" />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="47" alt="mysql logo" />
-    <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="47" alt="python logo" />
-    <img width="14" />
-  <img src="https://cdn.simpleicons.org/haskell?viewbox=auto" height="47" alt="haskell logo" />
     <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="47" alt="typescript logo" />
     <img width="14" />
