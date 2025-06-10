@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Qirana2049&theme=radical&no-frame=true&no-bg=true&margin-w=20&column=6" alt="Qirana2049 GitHub Trophy" style="zoom:1.2;" />
+  <img src="https://github-trophies.vercel.app/?username=kria2045&theme=radical&no-frame=true&no-bg=true&margin-w=20&column=6" alt="Qirana2049 GitHub Trophy" style="zoom:1.2;" />
 </p>
 
 
