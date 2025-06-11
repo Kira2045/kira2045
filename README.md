@@ -36,6 +36,7 @@
 
 
 <div align="left">
+  <!-- Sudah Ada -->
   <img src="https://cdn.simpleicons.org/neovim/57A143" height="47" alt="neovim logo" />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="47" alt="java logo" />
@@ -59,11 +60,39 @@
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="47" alt="javascript logo" />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="47" alt="mysql logo" />
-    <img width="14" />
+  <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="47" alt="typescript logo" />
-    <img width="14" />
+  <img width="14" />
 
+  <!-- Tambahan: Fullstack Web Developer -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="47" alt="react logo" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="47" alt="nextjs logo" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="47" alt="nodejs logo" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="47" alt="express logo" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="47" alt="mongodb logo" />
+  <img width="14" />
+
+  <!-- Tambahan: Machine Learning Engineer -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="47" alt="python logo" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="47" alt="tensorflow logo" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="47" alt="pytorch logo" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="47" alt="numpy logo" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="47" alt="pandas logo" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="47" alt="scikit-learn logo" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/matplotlib/11557C" height="47" alt="matplotlib logo" />
+  <img width="14" />
 </div>
+
 
 ---
 
