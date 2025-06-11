@@ -88,7 +88,7 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="47" alt="c logo" />
   <img width="14" />
-  <img src="https://inline.example.com/blackarch.svg" height="47" alt="blackarch logo" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/BlackArch_logo.png" height="47" alt="blackarch logo" />
 </div>
 
 
