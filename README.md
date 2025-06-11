@@ -70,23 +70,8 @@
   <img width="14" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="47" alt="tailwindcss logo" />
   <img width="14" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="47" alt="python logo" />
-  <img width="14" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="47" alt="tensorflow logo" />
-  <img width="14" />
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="47" alt="pytorch logo" />
-  <img width="14" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="47" alt="numpy logo" />
-  <img width="14" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="47" alt="pandas logo" />
-  <img width="14" />
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="47" alt="scikit-learn logo" />
-  <img width="14" />
-
   <img src="https://cdn.simpleicons.org/gnuemacs/7F5AB6" height="47" alt="assembly (emacs/asm) logo" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="47" alt="c logo" />
 
 </div>
 
