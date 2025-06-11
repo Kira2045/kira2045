@@ -37,7 +37,7 @@
 
 <div align="left">
   <!-- Tools & OS -->
-  <img src="https://cdn.simpleicons.org/neovim/57A143" height="47" alt="neovim logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="47" alt="neovim logo" />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="47" alt="java logo" />
   <img width="14" />
@@ -58,6 +58,7 @@
   <img src="https://cdn.simpleicons.org/redhat/EE0000" height="47" alt="redhat logo" />
   <img width="14" />
 
+  <!-- Web Dev -->
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="47" alt="html5 logo" />
   <img width="14" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="47" alt="css3 logo" />
@@ -71,8 +72,18 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="47" alt="tailwindcss logo" />
   <img width="14" />
 
-
+  <!-- Additional Tech -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="47" alt="lua logo" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachemaven/apachemaven-original-wordmark.svg" height="47" alt="maven logo" />
+  <img width="14" />
+  
+  <!-- Hacking & Kali -->
+  <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" height="47" alt="hackthebox logo" />
+  <img width="14" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Kali-linux-2021-logo.svg" height="47" alt="kali linux logo" />
 </div>
+
 
 
 
