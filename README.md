@@ -83,14 +83,12 @@
   <img width="14" />
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="47" alt="scikit-learn logo" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/matplotlib/11557C" height="47" alt="matplotlib logo" />
-  <img width="14" />
 
   <img src="https://cdn.simpleicons.org/gnuemacs/7F5AB6" height="47" alt="assembly (emacs/asm) logo" />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="47" alt="c logo" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="47" alt="kali linux logo" />
+  <img src="https://inline.example.com/blackarch.svg" height="47" alt="blackarch logo" />
 </div>
 
 
