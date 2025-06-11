@@ -36,10 +36,12 @@
 
 
 <div align="left">
-  <!-- Sudah Ada -->
+  <!-- Tools & OS -->
   <img src="https://cdn.simpleicons.org/neovim/57A143" height="47" alt="neovim logo" />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="47" alt="java logo" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/springboot/6DB33F" height="47" alt="springboot logo" />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="47" alt="linux logo" />
   <img width="14" />
@@ -47,36 +49,28 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="47" alt="postgresql logo" />
   <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="47" alt="mysql logo" />
+  <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="47" alt="cplusplus logo" />
   <img width="14" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="47" alt="docker logo" />
   <img width="14" />
   <img src="https://cdn.simpleicons.org/redhat/EE0000" height="47" alt="redhat logo" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="47" alt="tailwindcss logo" />
-  <img width="14" />
+
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="47" alt="html5 logo" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="47" alt="css3 logo" />
   <img width="14" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="47" alt="javascript logo" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="47" alt="mysql logo" />
-  <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="47" alt="typescript logo" />
   <img width="14" />
-
-  <!-- Tambahan: Fullstack Web Developer -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="47" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="47" alt="vuejs logo" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="47" alt="nextjs logo" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="47" alt="nodejs logo" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="47" alt="express logo" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="47" alt="mongodb logo" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="47" alt="tailwindcss logo" />
   <img width="14" />
 
-  <!-- Tambahan: Machine Learning Engineer -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="47" alt="python logo" />
   <img width="14" />
   <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="47" alt="tensorflow logo" />
@@ -91,7 +85,14 @@
   <img width="14" />
   <img src="https://cdn.simpleicons.org/matplotlib/11557C" height="47" alt="matplotlib logo" />
   <img width="14" />
+
+  <img src="https://cdn.simpleicons.org/gnuemacs/7F5AB6" height="47" alt="assembly (emacs/asm) logo" />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="47" alt="c logo" />
+  <img width="14" />
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="47" alt="kali linux logo" />
 </div>
+
 
 
 ---
