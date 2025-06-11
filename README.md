@@ -81,8 +81,6 @@
 
   <!-- Hacking & Security -->
   <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" height="47" alt="hackthebox logo" />
-    <img width="14" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BlackArch_logo.png/410px-BlackArch_logo.png" height="47" alt="BlackArch Linux logo" />
 
 
 </div>
