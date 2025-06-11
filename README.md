@@ -70,8 +70,7 @@
   <img width="14" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="47" alt="tailwindcss logo" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/gnuemacs/7F5AB6" height="47" alt="assembly (emacs/asm) logo" />
-  <img width="14" />
+
 
 </div>
 
