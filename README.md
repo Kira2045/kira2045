@@ -12,7 +12,7 @@
 <p align="center">
   <img 
     src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG05Y21jcG13bXloMzd6bGdja3Bza2p6bHVtZWFnNDdnZmtpOXdpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yWks1AKUIldwKNHOxT/giphy.gif" 
-    alt="Hi, my name is Qirana" 
+    alt="Hi, my name is kira" 
     width="800" 
   />
 </p>
@@ -81,6 +81,9 @@
 
   <!-- Hacking & Security -->
   <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" height="47" alt="hackthebox logo" />
+    <img width="14" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BlackArch_logo.png/410px-BlackArch_logo.png" height="47" alt="BlackArch Linux logo" />
+
 
 </div>
 
