@@ -11,7 +11,7 @@
 
 <p align="center">
   <img 
-    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG05Y21jcG13bXloMzd6bGdja3Bza2p6bHVtZWFnNDdnZmtpOXdpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yWks1AKUIldwKNHOxT/giphy.gif" 
+    src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG05Y21jcG13bXloMzd6bGdja3Bza2p6bHVtZWFnNDdnZmtpOXdpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yWks1AKUIldwKNHOxT/giphy.gif](https://i.pinimg.com/originals/a3/f7/e5/a3f7e54ca2212a0bbf0044fa19954e9c.gif)" 
     alt="Hi, my name is kira" 
     width="800" 
   />
