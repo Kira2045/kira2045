@@ -75,8 +75,6 @@
 
   <!-- Hacking & Security -->
   <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" height="47" alt="hackthebox logo" />
-
-
 </div>
 
 
