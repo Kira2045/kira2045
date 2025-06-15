@@ -67,13 +67,8 @@
   <img width="14" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="47" alt="tailwindcss logo" />
   <img width="14" />
-
-  <!-- Extra Tech -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="47" alt="lua logo" />
-
   <img width="14" />
-
-  <!-- Hacking & Security -->
   <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" height="47" alt="hackthebox logo" />
 </div>
 
